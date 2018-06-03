@@ -1,0 +1,15 @@
+http://www.tutorialspoint.com/java/java_networking.htm
+
+http://tutorials.jenkov.com/java-networking/sockets.html
+
+https://www.tutorialspoint.com/javaexamples/net_multisoc.htm
+
+http://stackoverflow.com/questions/28308584/connecting-two-computers-for-client-server-communication-in-java
+
+http://www.javaworld.com/article/2077322/core-java/core-java-sockets-programming-in-java-a-tutorial.html
+
+http://www.javatpoint.com/socket-programming
+
+http://www.buyya.com/java/Chapter13.pdf
+
+http://stackoverflow.com/questions/1776457/java-client-server-application-with-sockets
